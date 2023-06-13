@@ -10,7 +10,7 @@
 # propagate uncertainty (i.e. error in the estimate of prevalence is present in
 # the estimate of the variance, etc.), meaning the empirical power only
 # converges on this result for large cluster numbers. The power by the DRpower
-# method is estimated in the usual way, by simulation.
+# method is estimated in the usual way, i.e. via simulation.
 #
 # Results are saved to file to be visualised elsewhere.
 #

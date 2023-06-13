@@ -4,9 +4,9 @@ Akinyi_etal_2013,1998-2001,Peru,Loreto,Maynas Province,Padre cocha,46,6
 Akinyi_etal_2013,1998-2001,Peru,Piura,Bellavista,NR,10,0
 Akinyi_etal_2013,2003-2005,Peru,Loreto,Iquitos,NR,96,39
 Alemayehu_etal_2021,2018,Ethiopia,Benishangul-Gumuz Regional State,Assosa Zone,Sherkole Health Centre,94,14
-Alemayehu_etal_2022,2018,Ethiopia,Benishangul-Gumuz Regional State,Assosa Zone,Bambasi Health Centre,66,9
-Alemayehu_etal_2023,2018,Ethiopia,Benishangul-Gumuz Regional State,Assosa Zone,Kurmuk Health Centre,42,10
-Alemayehu_etal_2024,2018,Ethiopia,Benishangul-Gumuz Regional State,Assosa Zone,Assosa Health Centre,16,6
+Alemayehu_etal_2021,2018,Ethiopia,Benishangul-Gumuz Regional State,Assosa Zone,Bambasi Health Centre,66,9
+Alemayehu_etal_2021,2018,Ethiopia,Benishangul-Gumuz Regional State,Assosa Zone,Kurmuk Health Centre,42,10
+Alemayehu_etal_2021,2018,Ethiopia,Benishangul-Gumuz Regional State,Assosa Zone,Assosa Health Centre,16,6
 Berhane_etal_2018,2015-2016,Eritrea,Northern Red Sea,Ghindae,Ghindae hospital,26,21
 Berhane_etal_2018,2015-2016,Eritrea,Northern Red Sea,Massawa,Massawa hospital,24,10
 Bharti_etal_2016,2014,India,Orissa,Koraput,Bandhugaon,229,12
@@ -55,12 +55,12 @@ Fontecha_etal_2018,2011,Honduras,"Gracias a Dios, Colon, Atlantida, Cortes, Isla
 Fontecha_etal_2018,2012,Honduras,"Gracias a Dios, Colon, Atlantida, Cortes, Islas de la Bahia",,,11,0
 Fontecha_etal_2018,2017,Honduras,"Gracias a Dios, Colon, Atlantida, Cortes, Islas de la Bahia",,,31,9
 Fontecha_etal_2018,2015,Nicaragua,North Atlantic Autonomous Region,,,55,17
-Gamboa_etal_2012,2007,Peru,Iquitos,NR,NR,9,8
-Gamboa_etal_2012,2003-2007,Peru,Iquitos,NR,NR,114,41
-Gamboa_etal_2012,2006-2008,Peru,Amazonas,Condorcanqui,NR,5,5
-Gamboa_etal_2012,2007,Peru,Loreto,San Lorenzo,NR,15,7
-Gamboa_etal_2012,2004,Peru,Loreto,Yurimaguas,NR,12,6
-Gamboa_etal_2012,2005,Peru,Cajamarca,Jaén,NR,2,2
+Gamboa_etal_2010,2007,Peru,Iquitos,NR,NR,9,8
+Gamboa_etal_2010,2003-2007,Peru,Iquitos,NR,NR,114,41
+Gamboa_etal_2010,2006-2008,Peru,Amazonas,Condorcanqui,NR,5,5
+Gamboa_etal_2010,2007,Peru,Loreto,San Lorenzo,NR,15,7
+Gamboa_etal_2010,2004,Peru,Loreto,Yurimaguas,NR,12,6
+Gamboa_etal_2010,2005,Peru,Cajamarca,Jaén,NR,2,2
 Mihreteab_etal_2021,2019,Eritrea,Gash Barka,,Agordat,100,15
 Mihreteab_etal_2021,2019,Eritrea,Gash Barka,,Shambuko,100,10
 Mihreteab_etal_2021,2019,Eritrea,Gash Barka,,Tesseney,105,1
@@ -80,7 +80,7 @@ Valdivia_etal_2022,2011-2018,Peru,Inquitos,Moronacocha,,24,19
 Valdivia_etal_2022,2011-2018,Peru,Inquitos,Padrecocha,,140,109
 Valdivia_etal_2022,2011-2018,Peru,Inquitos,Puerto America,,5,2
 Valdivia_etal_2022,2011-2018,Peru,Inquitos,Santa Clara,,13,9
-Valdivia_etal_2023,2011-2019,Peru,Inquitos,Tupac,,2,1
+Valdivia_etal_2022,2011-2019,Peru,Inquitos,Tupac,,2,1
 Vera_Arias_2015,2013-2014,Ecuador,Esmereldas,Canton Esmereldas,"Esmereldas, Tachina, Simon Plata Torres, 5 de Agosto, Caonton San Lorenzo, Alto Tamboa, Ancon, Calderon, San Lorenzo, Tululbi, Urbina and unknown",34,2
 Vera_Arias_2015,2013-2015,Ecuador,Esmereldas,"Canton Esmereldas, Canton San Lorenzo",Parroquia Vuelta Larga,20,3
 Vera_Arias_2015,2013-2015,Ecuador,Socumbios,Canton Cascales,NR,1,1
