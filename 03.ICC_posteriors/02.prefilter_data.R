@@ -28,7 +28,7 @@ dat <- openxlsx::read.xlsx("03.ICC_posteriors/data/MTM_PFHRP23_GENE_DELETIONS_20
 length(unique(dat$study_ID)) # count unique studies
 nrow(distinct(dat, study_ID, SITE_NAME)) # count unique sites
 
-# filter by continent, symptomatic patients, and survey type
+# filter by continent
 continent_key <- read.csv("03.ICC_posteriors/data/continent_key.csv")
 dat <- dat |>
   left_join(continent_key) |>
@@ -57,6 +57,9 @@ nrow(distinct(dat, study_ID, SITE_NAME)) # count unique sites
 dat_discard <- filter(dat, discard)
 #View(dat_discard) # look for reasons for discard
 
+length(unique(dat_discard$study_ID)) # count unique studies
+nrow(distinct(dat_discard, study_ID, SITE_NAME)) # count unique sites
+
 # filter out discarded studies
 dat <- filter(dat, !discard)
 
@@ -73,6 +76,8 @@ dat <- dat |>
   select(CONTINENT_NAME, COUNTRY_NAME, SITE_NAME, LONGITUDE, LATITUDE, YEAR_START,
          YEAR_END, HRP2_TESTED, HRP2_NUM_DELETION, CITATION_URL, study_ID)
 
+nrow(dat)
+
 # combine data collected in exact same location (lat/lon) in same year
 dat <- dat |>
   group_by(CONTINENT_NAME, COUNTRY_NAME, SITE_NAME, LONGITUDE, LATITUDE, YEAR_START,
@@ -80,6 +85,12 @@ dat <- dat |>
   summarise(HRP2_TESTED = sum(HRP2_TESTED),
             HRP2_NUM_DELETION = sum(HRP2_NUM_DELETION)) |>
   ungroup()
+
+# the number of rows in the data decreases, but the number of unique studies and
+# sites remains the same (by definition, because site names are identical)
+nrow(dat)
+length(unique(dat$study_ID)) # count unique studies
+nrow(distinct(dat, study_ID, SITE_NAME)) # count unique sites
 
 # read in sf object containing all the relevant countries
 shp_combined <- readRDS("03.ICC_posteriors/data/shp_combined.rds")
@@ -107,6 +118,9 @@ dat <- dat |>
 dat_add <- read.csv("03.ICC_posteriors/data/additional_data.csv")
 
 dat <- bind_rows(dat, dat_add)
+
+length(unique(dat$study_ID)) # count unique studies
+nrow(distinct(dat, study_ID, SITE_NAME)) # count unique sites
 
 # save data to file
 saveRDS(dat, file = "03.ICC_posteriors/outputs/dat_filter1.rds")
