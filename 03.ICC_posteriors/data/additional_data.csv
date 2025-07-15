@@ -1,35 +1,154 @@
-﻿CONTINENT_NAME,COUNTRY_NAME,ADMIN1_NAME,SITE_NAME,LONGITUDE,LATITUDE,YEAR_START,YEAR_END,HRP2_TESTED,HRP2_NUM_DELETION,CITATION_URL,,study_ID
-Africa,Ethiopia,Benshangul-Gumaz,Sherkole Health Centre,,,2018,2018,94,14,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095343/,,56
-Africa,Ethiopia,Benshangul-Gumaz,Bambasi Health Centre,,,2018,2018,66,9,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095343/,,56
-Africa,Ethiopia,Benshangul-Gumaz,Kurmuk Health Centre,,,2018,2018,42,10,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095343/,,56
-Africa,Ethiopia,Benshangul-Gumaz,Assosa Health Centre,,,2018,2018,16,6,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095343/,,56
-Africa,Ethiopia,Tigray,Ahferom,,,2017,2018,117,18,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Tigray,Atseged Tsimbila,,,2017,2018,160,48,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Tigray,Gulomekeda,,,2017,2018,21,5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Tigray,K. Humera,,,2017,2018,176,39,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Tigray,L. Adiabo,,,2017,2018,145,22,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Tigray,T. Adiabo,,,2017,2018,69,10,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Amhara,Metema,,,2017,2018,233,30,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Amhara,Quara,,,2017,2018,516,39,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Amhara,Tegede,,,2017,2018,296,65,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Amhara,West Armachiho,,,2017,2018,295,75,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Gambella,Itang,,,2017,2018,151,2,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Ethiopia,Gambella,Kule Refugee Camp,,,2017,2018,472,4,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,,60
-Africa,Eritrea,Gash Barka,Agordat,,,2019,2019,100,15,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Eritrea,Gash Barka,Shambuko,,,2019,2019,100,10,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Eritrea,Gash Barka,Tesseney,,,2019,2019,105,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Eritrea,Gash Barka,Tokombia,,,2019,2019,106,6,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Eritrea,Gash Barka,Barentu,,,2019,2019,101,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Eritrea,Anseba,Keren,,,2019,2020,78,22,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Eritrea,Anseba,Hagaz,,,2019,2020,29,6,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Eritrea,Debub,Mendefara,,,2019,2020,43,5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Eritrea,Debub,MaiMine,,,2019,2020,53,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,,62
-Africa,Democratic Republic of the Congo,Kinshasa,Kinshasa,,,2005,2005,6,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
-Africa,Gambia,Banjul,Banjul LGA,,,2005,2005,2,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
-Africa,Kenya,Kilifi,"Kilifi, Coast Province",,,2005,2005,12,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
-Africa,Mozambique,Sofala,"Beira, Sofala",,,2005,2005,19,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
-Africa,Rwanda,Umujyi wa Kigali,"Kigali, Kigali",,,2005,2005,10,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
-Africa,Rwanda,Amajyepfo,"Nyanza, Southern Province",,,2005,2005,5,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
-Africa,United Republic of Tanzania,Tanga,"Korogwe, Tanga",,,2005,2005,3,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
-Africa,United Republic of Tanzania,Tanga,"Muheza, Tanga",,,2005,2005,15,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
-Africa,Uganda,Mbarara,"Mbarara, Western Region",,,2005,2005,5,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,,73
+﻿CONTINENT_NAME,COUNTRY_NAME,ADMIN1_NAME,SITE_NAME,LONGITUDE,LATITUDE,YEAR_START,YEAR_END,HRP2_TESTED,HRP2_NUM_DELETION,CITATION_URL,study_ID
+Africa,Ethiopia,Benshangul-Gumaz,Sherkole Health Centre,,,2018,2018,94,14,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095343/,48
+Africa,Ethiopia,Benshangul-Gumaz,Bambasi Health Centre,,,2018,2018,66,9,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095343/,48
+Africa,Ethiopia,Benshangul-Gumaz,Kurmuk Health Centre,,,2018,2018,42,10,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095343/,48
+Africa,Ethiopia,Benshangul-Gumaz,Assosa Health Centre,,,2018,2018,16,6,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095343/,48
+Africa,Ethiopia,Tigray,Ahferom,,,2017,2018,117,18,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Tigray,Atseged Tsimbila,,,2017,2018,160,48,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Tigray,Gulomekeda,,,2017,2018,21,5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Tigray,K. Humera,,,2017,2018,176,39,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Tigray,L. Adiabo,,,2017,2018,145,22,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Tigray,T. Adiabo,,,2017,2018,69,10,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Amhara,Metema,,,2017,2018,233,30,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Amhara,Quara,,,2017,2018,516,39,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Amhara,Tegede,,,2017,2018,296,65,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Amhara,West Armachiho,,,2017,2018,295,75,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Gambella,Itang,,,2017,2018,151,2,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Ethiopia,Gambella,Kule Refugee Camp,,,2017,2018,472,4,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8478644/,49
+Africa,Eritrea,Gash Barka,Agordat,,,2019,2019,100,15,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Eritrea,Gash Barka,Shambuko,,,2019,2019,100,10,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Eritrea,Gash Barka,Tesseney,,,2019,2019,105,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Eritrea,Gash Barka,Tokombia,,,2019,2019,106,6,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Eritrea,Gash Barka,Barentu,,,2019,2019,101,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Eritrea,Anseba,Keren,,,2019,2020,78,22,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Eritrea,Anseba,Hagaz,,,2019,2020,29,6,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Eritrea,Debub,Mendefara,,,2019,2020,43,5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Eritrea,Debub,MaiMine,,,2019,2020,53,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548324/,40
+Africa,Democratic Republic of the Congo,Kinshasa,Kinshasa,,,2005,2005,6,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,Gambia,Banjul,Banjul LGA,,,2005,2005,2,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,Kenya,Kilifi,"Kilifi, Coast Province",,,2005,2005,12,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,Mozambique,Sofala,"Beira, Sofala",,,2005,2005,19,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,Rwanda,Umujyi wa Kigali,"Kigali, Kigali",,,2005,2005,10,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,Rwanda,Amajyepfo,"Nyanza, Southern Province",,,2005,2005,5,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,United Republic of Tanzania,Tanga,"Korogwe, Tanga",,,2005,2005,3,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,United Republic of Tanzania,Tanga,"Muheza, Tanga",,,2005,2005,15,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,Uganda,Mbarara,"Mbarara, Western Region",,,2005,2005,5,0,https://www.ncbi.nlm.nih.gov/pubmed/22898068,31
+Africa,United Republic of Tanzania,Dar,CHN,,,2021,2021,64,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,CHR,,,2021,2021,48,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,CMZ,,,2021,2021,64,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,GBA,,,2021,2021,80,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,KBD,,,2021,2021,65,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,KWE,,,2021,2021,64,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,MBZ,,,2021,2021,48,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,MWG,,,2021,2021,52,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,TUS,,,2021,2021,52,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dar,VNG,,,2021,2021,53,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,CHP,,,2021,2021,65,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,CHZ,,,2021,2021,48,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,IBG,,,2021,2021,57,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,LOJ,,,2021,2021,72,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,LUK,,,2021,2021,75,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,MAL,,,2021,2021,74,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,MBR,,,2021,2021,50,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,MFN,,,2021,2021,77,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,MLL,,,2021,2021,63,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,MPD,,,2021,2021,56,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,NHH,,,2021,2021,12,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Dodoma,RUD,,,2021,2021,44,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,BKG,,,2021,2021,50,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,BTU,,,2021,2021,79,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,BUZ,,,2021,2021,21,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,BYG,,,2021,2021,23,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,CVU,,,2021,2021,50,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,KYK,,,2021,2021,84,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,KZB,,,2021,2021,56,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,NSB,,,2021,2021,50,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,NTG,,,2021,2021,56,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,RSW,,,2021,2021,52,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,RUG,,,2021,2021,47,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kagera,RWB,,,2021,2021,51,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,HDR,,,2021,2021,101,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,KAL,,,2021,2021,181,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,KIS,,,2021,2021,250,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,LYM,,,2021,2021,124,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,MAJ,,,2021,2021,474,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,MAK,,,2021,2021,292,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,MOR,,,2021,2021,184,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,MWG,,,2021,2021,234,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,NDG,,,2021,2021,322,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Kiimanjaro,PAS,,,2021,2021,307,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,BWG,,,2021,2021,46,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,ENG,,,2021,2021,50,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,GUG,,,2021,2021,77,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,KJG,,,2021,2021,47,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,KTA,,,2021,2021,69,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,KTB,,,2021,2021,69,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,LES,,,2021,2021,48,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,NDD,,,2021,2021,52,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,OLT,,,2021,2021,42,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Manyara,SUY,,,2021,2021,67,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,CTR,,,2021,2021,42,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,KNM,,,2021,2021,65,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,KSR,,,2021,2021,68,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,MGN,,,2021,2021,52,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,NMT,,,2021,2021,13,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,NYA,,,2021,2021,62,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,NYG,,,2021,2021,53,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,NYK,,,2021,2021,64,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,NYS,,,2021,2021,58,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,PNK,,,2021,2021,48,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mara,RRN,,,2021,2021,45,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,KAN,,,2021,2021,71,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,LMS,,,2021,2021,46,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,MBB,,,2021,2021,48,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,MKN,,,2021,2021,108,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,MKT,,,2021,2021,44,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,MKW,,,2021,2021,50,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,MKY,,,2021,2021,58,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,MPL,,,2021,2021,41,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,NLD,,,2021,2021,43,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,SGY,,,2021,2021,54,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Mtwara,SHG,,,2021,2021,35,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,IKD,,,2021,2021,45,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,IWL,,,2021,2021,61,2,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,KIP,,,2021,2021,51,2,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,LIA,,,2021,2021,42,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,LIG,,,2021,2021,72,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,LUI,,,2021,2021,59,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,MAD,,,2021,2021,18,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,MAK,,,2021,2021,63,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,NJH,,,2021,2021,77,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,NKG,,,2021,2021,47,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,SAJ,,,2021,2021,13,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Njombe,UKA,,,2021,2021,57,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,CWZ,,,2021,2021,4,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,IKN,,,2021,2021,65,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,IPN,,,2021,2021,81,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,ISA,,,2021,2021,62,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,KAP,,,2021,2021,43,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,KPT,,,2021,2021,40,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,MBG,,,2021,2021,42,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,NYJ,,,2021,2021,59,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,NZK,,,2021,2021,77,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,TUN,,,2021,2021,55,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Songwe,UDD,,,2021,2021,64,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,IGU,,,2021,2021,16,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,IGW,,,2021,2021,51,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,IZG,,,2021,2021,45,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,IZI,,,2021,2021,55,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,KAS,,,2021,2021,52,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,KGB,,,2021,2021,70,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,MGG,,,2021,2021,51,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,MIG,,,2021,2021,65,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,SEM,,,2021,2021,37,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,USU,,,2021,2021,45,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,United Republic of Tanzania,Tabora,UTU,,,2021,2021,43,0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11001933/,127
+Africa,South Sudan,Yambio County,Kasia,,,2020,2020,50,6,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107
+Africa,South Sudan,Yambio County,Yambio State Hospital,,,2020,2020,44,13,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107
+Africa,South Sudan,Yambio County,Birisi,,,2020,2020,56,12,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107
+Africa,South Sudan,Yambio County,Bureangburu,,,2020,2020,62,7,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107
+Africa,South Sudan,Yambio County,Bakiwiri,,,2020,2020,58,6,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107
+Africa,South Sudan,Yambio County,Gitikiri,,,2020,2020,60,8,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107
+Africa,South Sudan,Yambio County,Nambia,,,2020,2020,70,14,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107
+Africa,South Sudan,Yambio County,Mamboi,,,2020,2020,51,5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107
+Africa,South Sudan,Yambio County,Masumbu,,,2020,2020,67,10,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796199/#R5,107

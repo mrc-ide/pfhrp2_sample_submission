@@ -76,9 +76,11 @@ df1 <- rbind(df1, data.frame(col = "prior",
 
 
 # plot
-group_names <- c("India: Odisha, 2013", "Peru: Loreto, 2011", "Ethiopia: Tigray, 2017", 
-                 "Ethiopia: Benshangul-Gumaz, 2018", "Ethiopia: Amhara, 2017", 
-                 "Eritrea: Gash Barka, 2019", "Peru: Loreto, 2009")
+group_names <- c("India: Odisha, 2013", "Peru: Loreto, 2011", "South Sudan: Yambio County, 2020",
+                 "Ethiopia: Tigray, 2017", "Ethiopia: Benshangul-Gumaz, 2018", "Ethiopia: Amhara, 2017", 
+                 "Burkina Faso: Centre-Ouest, 2020", "Eritrea: Gash Barka, 2019", "Ethiopia: Oromia, 2022",
+                 "Ethiopia: Southern Nations, Nationalities, 2022", "Peru: Loreto, 2009")
+
 plot1 <- df1 %>%
   filter(!group %in% c("Default prior", "Combined posterior")) |>
   mutate(group = factor(group, levels = group_names)) %>%
@@ -97,7 +99,7 @@ plot2 <- df1 %>%
   ggplot() + theme_bw() +
   geom_ribbon(aes(x = x, ymin = 0, ymax = y, fill = group, col = group), alpha = 0.5) +
   scale_x_continuous(expand = c(0, 0)) +
-  scale_y_continuous(limits = c(0, 0.022), expand = c(0, 0)) +
+  scale_y_continuous(limits = c(0, 0.03), expand = c(0, 0)) +
   xlab("Intra-cluster correlation") + ylab("Posterior probability density") +
   theme(legend.title = element_blank(), legend.position = c(1, 1), legend.justification = c(1,1),
         legend.background = element_rect(size = 0.3, colour = "black")) +
