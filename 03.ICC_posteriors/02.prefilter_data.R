@@ -23,7 +23,6 @@ library(sf)
 # BASIC FILTERS
 
 # read in raw data
-#dat <- openxlsx::read.xlsx("03.ICC_posteriors/data/MTM_PFHRP23_GENE_DELETIONS_20231127_edited.xlsx", sheet = 2)
 dat <- openxlsx::read.xlsx("03.ICC_posteriors/data/MTM_PFHRP23_GENE_DELETIONS_20250714_edited.xlsx", sheet = 2)
 
 length(unique(dat$study_ID)) # count unique studies
